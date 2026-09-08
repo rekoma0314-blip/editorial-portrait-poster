@@ -1,1 +1,4 @@
-
+interface:
+  display_name: "实验性人物海报"
+  short_description: "从任意运动员、人物或参考图生成巨字压图、地下街头拼贴风格海报"
+  default_prompt: "使用 $editorial-portrait-poster 根据我给的人物名字或参考图，直接生成一张巨字压图、街头撕贴风格的实验性编辑人物海报。"
